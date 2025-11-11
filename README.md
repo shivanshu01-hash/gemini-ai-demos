@@ -17,5 +17,5 @@ This project showcases **Google Gemini AI** capabilities through an interactive 
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/your-username/gemini-ai-demos.git
+   git clone https://github.com/shivanshu01-hash/gemini-ai-demos.git
    cd gemini-ai-demos
